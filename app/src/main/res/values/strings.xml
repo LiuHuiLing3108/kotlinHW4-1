@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">kotlinHW4</string>
+
+    <integer-array name="resourceList">
+        <item>@drawable/cubee1</item>
+        <item>@drawable/cubee2</item>
+        <item>@drawable/cubee3</item>
+        <item>@drawable/cubee4</item>
+        <item>@drawable/cubee5</item>
+        <item>@drawable/cubee6</item>
+        <item>@drawable/cubee7</item>
+        <item>@drawable/cubee8</item>
+        <item>@drawable/cubee9</item>
+        <item>@drawable/cubee10</item>
+    </integer-array>
+</resources>
